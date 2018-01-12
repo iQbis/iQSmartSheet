@@ -112,7 +112,7 @@ use "STRING" to make this explicitly obvious from the JSON data file.
 # License
 
 This project is licensed under the MIT License.
-See the LICENSE.txt file for details.
+See the LICENSE file for details.
 
 # Troubleshouting
 
