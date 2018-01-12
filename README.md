@@ -5,7 +5,7 @@ from the command line. It takes a JSON-input file of raw data and an Excel
 template file as input. From both files a new output Excel file is generated.  
 
 iQSmartSheet implements a simple and straight forward command line wrapper
-for XLSTransformer class of the powerful JXLS 1.0.6 library. JXLS itself
+for the XLSTransformer class of the powerful JXLS 1.0.6 library. JXLS itself
 makes use of Apache POI. Thus the installation only needs a working java
 runtime environment and can be done on Unix, Windows or Mac without any
 Microsoft Office software.
