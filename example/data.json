@@ -1,7 +1,7 @@
 [
 	{
 		"query": "user",
-		"columns": [ "name", "role", "date", "sze" ],
+		"columns": [ "name", "role", "date", "size" ],
 		"types": [ "STRING", "STRING", "DATE", "NUMBER" ],
 		"rows": [
 			[ "Adam", "User", "2016-02-01", "1.76" ],
